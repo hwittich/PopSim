@@ -1,5 +1,5 @@
 # PopSim
-A population simulator created as a final project for COMP170 - Object Oriented Programming With Dr. Eric Chan-Tin at Loyola University Chicago. 
+A population simulator created as a final project for COMP170 - Object Oriented Programming With Dr. Eric Chan-Tin at Loyola University Chicago. This project was written with Java using the IDE, Eclipse. I have included all of the .java files I wrote for this project in this repo.
 
 ## Introduction
 
