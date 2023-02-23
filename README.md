@@ -18,3 +18,6 @@ During gameplay, the program will loop through days, with each organism making i
 - Climate Change! Or just natural disasters (random occurrences that improve replayability like droughts, rising sea levels, forest fires, etc.)   
 - Biomes (user-selected ecosystems with different parameters for randomly generating resources/organisms)    
 - Data and graphs! (part of the UI that will help the user conceptualize the current state of the ecosystem and their organism’s success like population levels, resources levels, etc.)
+
+## Demo
+[PopSim Screenshot](https://github.com/hwittich/PopSim/blob/main/PopSim%20Demo.png?raw=true)
