@@ -20,4 +20,4 @@ During gameplay, the program will loop through days, with each organism making i
 - Data and graphs! (part of the UI that will help the user conceptualize the current state of the ecosystem and their organism’s success like population levels, resources levels, etc.)
 
 ## Demo
-[PopSim Screenshot](https://github.com/hwittich/PopSim/blob/main/PopSim%20Demo.png?raw=true)
+![PopSim Screenshot](https://github.com/hwittich/PopSim/blob/main/PopSim%20Demo.png?raw=true)
